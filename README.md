@@ -6,7 +6,7 @@ A social media website built using the MERN stack, where users can connect with 
 ![img](https://res.cloudinary.com/dvjzuiyp1/image/upload/v1690353293/Annotation_2023-07-26_120422_q0wskv.png)
 ## Live Demo
 
-- Click [here](https://movie-metro.netlify.app/) to view the live demo.
+- Click [here](https://friend-zone-seven.vercel.app/) to view the live demo.
 
 
 ## Technologies Used
