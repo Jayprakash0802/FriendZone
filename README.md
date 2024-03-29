@@ -1,9 +1,6 @@
 # FriendZone (Work in Progress)
 
-## Description
-A social media website built using the MERN stack, where users can connect with others, share posts, and interact with content.
 
-![img](https://res.cloudinary.com/dvjzuiyp1/image/upload/v1690353293/Annotation_2023-07-26_120422_q0wskv.png)
 ## Live Demo
 
 - Click [here](https://friend-zone-seven.vercel.app/) to view the live demo.
