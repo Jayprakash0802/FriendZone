@@ -22,8 +22,7 @@ app.use(
 
 //db
 const mongoose = require("mongoose");
-const db =
-  "mongodb+srv://Sameer:2FvImrCAExwvj6KF@cluster0.ov2ktdn.mongodb.net/?retryWrites=true&w=majority";
+const db = process.env.DB
 
 mongoose
   .connect(db, {
