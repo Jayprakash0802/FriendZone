@@ -95,9 +95,8 @@ const MobileProfileModal = ({ open, setOpen, user, children }) => {
                       <div className="flex flex-col items-start mt-4 px-8">
                         <div className="font-bold text-base">Bio</div>
                         <div className="font-semibold text-sm">
-                          Hi, I'm Whitney Francis and I'm a programmer. I
-                          specialize in developing mobile applications and web
-                          development. I have an eye for detail and I'm
+                          Hi, I'm Jay Prakash and I'm a programmer. I
+                          specialize in developing web applications and cloud engineering. I have an eye for detail and I'm
                           passionate about creating beautiful, well-crafted
                           software products.
                         </div>
