@@ -123,9 +123,8 @@ const DesktopProfileModal = ({ open, setOpen }) => {
                             </dt>
                             <dd className="mt-1 text-sm sm:col-span-2">
                               <p>
-                                Hi, I'm Whitney Francis and I'm a programmer. I
-                                specialize in developing mobile applications and
-                                web development. I have an eye for detail and
+                                Hi, I'm Jay Prakash and I'm a programmer. I
+                                specialize in developing web applications and cloud engineering. I have an eye for detail and
                                 I'm passionate about creating beautiful,
                                 well-crafted software products.
                               </p>
